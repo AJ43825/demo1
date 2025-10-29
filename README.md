@@ -1,3 +1,3 @@
-"# demo1" 
+# demo1 
 # demo readme file 
 ## using gitbash vs code 
